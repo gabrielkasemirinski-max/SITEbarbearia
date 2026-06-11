@@ -7,4 +7,12 @@ h1{
 footer{
 
     background-color: blueviolet;
+
+}
+body{
+    background-color: black;
+    text-align: center;
+}
+img{
+    width: 700px;
 }
