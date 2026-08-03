@@ -1,16 +1,16 @@
 h1{
-    color: rgb(166, 0, 255);
-    background-color: aqua;
+    color: rgb(38, 4, 236);
+    background-color: rgb(14, 15, 15);
     
 
 }
 footer{
 
-    background-color: blueviolet;
+    background-color: rgb(250, 245, 245);
 
 }
 body{
-    background-color: black;
+    background-color: rgb(15, 12, 12);
     text-align: center;
 }
 img{
