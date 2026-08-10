@@ -1,6 +1,6 @@
 h1{
     color: rgb(38, 4, 236);
-    background-color: rgb(14, 15, 15);
+    background-color: rgb(237, 235, 241);
     
 
 }
@@ -10,9 +10,10 @@ footer{
 
 }
 body{
-    background-color: rgb(15, 12, 12);
+    background-color: rgb(106, 27, 243);
     text-align: center;
+    
 }
 img{
-    width: 700px;
+    width: 600px;
 }
