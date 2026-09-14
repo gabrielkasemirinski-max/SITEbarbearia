@@ -1,16 +1,30 @@
 h1{
     color: rgb(38, 4, 236);
-    background-color: rgb(237, 235, 241);
+    background-color: rgb(226, 219, 242);
     
 
 }
+
+h2{
+    text-align: center;
+    width: 200;
+    
+   
+
+}
+
+
+
+
+
+
 footer{
 
     background-color: rgb(250, 245, 245);
 
 }
 body{
-    background-color: rgb(106, 27, 243);
+    background-color: rgb(37, 24, 110);
     text-align: center;
     
 }
