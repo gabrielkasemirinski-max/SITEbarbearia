@@ -9,11 +9,13 @@ h2{
     text-align: center;
     width: 200;
     
-   
-
 }
 
-
+.caixa-texto{
+    color: rgb(7, 5, 5);
+    position: absolute;
+    
+}
 
 
 
