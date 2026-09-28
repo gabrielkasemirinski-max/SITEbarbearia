@@ -1,35 +1,89 @@
-h1{
-    color: rgb(38, 4, 236);
-    background-color: rgb(226, 219, 242);
-    
-
+header{
+    background-color: rgb(18, 18, 18);
 }
-
-h2{
-    text-align: center;
-    width: 200;
-    
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
 }
-
-.caixa-texto{
-    color: rgb(7, 5, 5);
+nav a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: blueviolet;
+    font-size: 22px;
+    font-weight: bold;
+}
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+nav{
     position: absolute;
-    
+    top: 110px;
+    right: 0;
+}
+
+.servicos li{
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
 }
 
 
 
+
+
+
+.servicos h1{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.decricao {
+    font-size: 18px;
+}
+
+.preco {
+font-size: 22px;
+font-weight: bold;
+margin-top: 10px;
+}
+
+body{
+    background-color: rgba(25, 25, 145, 0.507);
+
+}
+.servicos img{
+
+    width: 200px;
+
+}
 
 footer{
-
-    background-color: rgb(250, 245, 245);
-
-}
-body{
-    background-color: rgb(37, 24, 110);
     text-align: center;
-    
+    background-color: aqua;
+    padding: 40px 0;
+
 }
-img{
-    width: 600px;
+
+main{
+    margin: 40px 0;
+}
+form{
+    margin: 40px 0;
+}
+form label{
+    display: block;
+    font-size: 20px;
+    margin: 0 0 10px;
+}
+form input{
+    display: block;
+    margin:  0 0 20px;
+    padding: 10px 25px;
+    width: 50%;
 }

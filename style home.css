@@ -1,0 +1,33 @@
+h1{
+    color: rgb(38, 4, 236);
+    background-color: rgb(226, 219, 242);
+    
+
+}
+
+h2{
+    text-align: center;
+    width: 200;
+    
+}
+
+.link{
+    text-decoration: none;
+    color: rgb(0, 157, 255);
+}
+
+
+
+footer{
+
+    background-color: rgb(234, 224, 224);
+
+}
+body{
+    background-color: rgb(37, 24, 110);
+    text-align: center;
+    
+}
+img{
+    width: 600px;
+}
