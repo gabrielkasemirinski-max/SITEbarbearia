@@ -1,7 +1,122 @@
+header{
+    background-color: rgb(18, 18, 18);
+}
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+nav a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: blueviolet;
+    font-size: 22px;
+    font-weight: bold;
+}
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+nav{
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+
+.servicos li{
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+.servicos h1{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.decricao {
+    font-size: 18px;
+}
+
+.preco {
+font-size: 22px;
+font-weight: bold;
+margin-top: 10px;
+}
+
+body{
+    background-color: rgba(25, 25, 145, 0.507);
+
+}
+.servicos img{
+
+    width: 200px;
+
+}
+
+footer{
+    text-align: center;
+    background-color: aqua;
+    padding: 40px 0;
+
+}
+
+main{
+    margin: 40px 0;
+}
+form{
+    margin: 40px 0;
+}
+form label, form p{
+    display: block;
+    font-size: 20px;
+    margin: 0 0 10px;
+}
+form input{
+    display: block;
+    margin:  0 0 20px;
+    padding: 10px 25px;
+    width: 50%;
+}
+.enviar{
+    width: 40%;
+    padding: 15px;
+    background-color: aqua;
+    color: rgb(21, 106, 180);
+    font-weight: bold;
+    font-size: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 1s all;
+}
+.enviar:hover{
+    background-color: aqua;
+    transform: scale(1.2);
+    
+}
+
+@keyframes repetir {
+    0%{
+        transform: scale(1.0);
+    }
+    100%{
+        transform: scale(1.5);
+    }
+}
 
 
 body{
-    background-color: rgb(7, 154, 233);
+    background-color: rgb(224, 233, 238);
 }
 
 main{
