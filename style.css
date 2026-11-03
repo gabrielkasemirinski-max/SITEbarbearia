@@ -67,8 +67,13 @@ footer{
     text-align: center;
     background-color: aqua;
     padding: 40px 0;
-
 }
+
+img{
+    width: 21px
+}
+
+
 
 main{
     margin: 40px 0;
